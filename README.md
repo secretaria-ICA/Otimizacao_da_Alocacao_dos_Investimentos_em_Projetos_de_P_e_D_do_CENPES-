@@ -1,5 +1,4 @@
-# TCC---BI-MASTER-PUC-RJ
-# Otimização da alocação dos investimentos em projetos de P&D(Pesquisa & Desenvolvimento) do CENPES, para cumprir as obrigações legais decorrentes da produção de petróleo.
+# Otimização da Alocação dos Investimentos em Projetos de P&D(Pesquisa & Desenvolvimento) do CENPES, para Cumprir as Obrigações Legais Decorrentes da Produção de Petróleo.
 
 #### Aluno: [Marcelo Faro Bittencourt](https://github.com/MFaro)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
